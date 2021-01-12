@@ -59,7 +59,7 @@ public class ApplicationController {
     public class DemoScheduler {
 
 
-        @Scheduled(cron = " 0 0 11,15 * * MON-FRI", zone = "Asia/Seoul")
+        @Scheduled(cron = " 0 0 10,12 * * MON-FRI", zone = "Asia/Seoul")
         public void requestCovidInfo() {
 
             try {
