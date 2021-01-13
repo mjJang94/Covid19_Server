@@ -6,8 +6,10 @@ Get request를 통해 저장해놓은 데이터를 애플리케이션으로 넘�
 
 
 ### 개발환경
+- Java 1.8
 - IntelliJ
 - SpringBoot
 - Git
 - Oracle Cloud
+- Ubuntu
 - FileZilla
